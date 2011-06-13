@@ -31,7 +31,7 @@
 	));*/
 
 /*echo 'BLA ';
-	$bla = DatabaseStaticData::getDataBy('item_level_alter', array(
+	$blo = DatabaseStaticData::getDataBy('item_level', array(
 		   'item_id',
 		   'item_level',
 		   'alter_id'
